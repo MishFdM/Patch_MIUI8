@@ -7,4 +7,9 @@ Y"<li>"our phone won’t have an Internet connection.
 Y"<li>"ou won’t get software updates until you connect to the Internet.
 "</li>"
 Y"<li>"ou can’t activate device protection features at this time."</li>"</string>
+<string name="reset_network_desc">"This will reset all network settings, including:
+
+"<li>"WLAN
+"</li>C<li>"ellular data
+"</li>B<li>luetooth"</li></string>
 </resources>
