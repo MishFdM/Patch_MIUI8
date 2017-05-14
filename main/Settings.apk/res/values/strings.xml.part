@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-<string name="wifi_and_mobile_skipped_message"></string>
-<string name="reset_network_desc">"This will reset all network settings, including:
-
-"<li>"WLAN
-"</li>C<li>"ellular data
-"</li>B<li>luetooth"</li></string>
-</resources>
