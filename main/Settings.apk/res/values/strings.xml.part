@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="wifi_and_mobile_skipped_message">"If you skip WLAN:
-
-Y"<li>"our phone won’t have an Internet connection.
-"</li>"
-Y"<li>"ou won’t get software updates until you connect to the Internet.
-"</li>"
-Y"<li>"ou can’t activate device protection features at this time."</li>"</string>
+<string name="wifi_and_mobile_skipped_message"></string>
 <string name="reset_network_desc">"This will reset all network settings, including:
 
 "<li>"WLAN
