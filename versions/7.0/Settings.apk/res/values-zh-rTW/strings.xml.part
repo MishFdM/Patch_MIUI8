@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="wifi_and_mobile_skipped_message"></string>
+<string name="bearer"></string>
+<string name="reset_network_desc"></string>
+</resources>
